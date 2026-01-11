@@ -17,8 +17,6 @@
 **[EN]** 
 Brainwave is a modern UI/UX website built using React.js and Tailwind CSS, designed with contemporary principles in mind. It features smooth parallax effects and bento box layouts, offering a stylish UI that adapts well from desktop to mobile devices. With polished animations and a user-friendly experience, Brainwave sets a high standard while providing inspiration for modern applications and websites.
 
-**[FR]** Brainwave est un site web UI/UX moderne créé avec React.js et Tailwind CSS, qui incarne les principes actuels du design. Il présente des effets de parallaxe fluides et des mises en page bento box, offrant une interface élégante adaptée aussi bien aux ordinateurs de bureau qu'aux appareils mobiles. Avec des animations soignées et une expérience utilisateur exceptionnelle, Brainwave se distingue comme une source d'inspiration pour les applications et sites web contemporains.
-
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
 - [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. Its virtual DOM enhances performance by minimizing direct interactions with the browser's DOM.
